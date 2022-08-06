@@ -1,6 +1,6 @@
 ### Hello, i'm Leonid! 👋
 I am an engineer, raft-guide and a "programmer larva".😄
-- 🌱 I’m currently learning on [Junior Frontend Developer](https://vladilen.ru/junior)
+- 🌱 I’m a Frontend Developer
 - 💬 I'm looking for help with finding my first job
 
 ---
