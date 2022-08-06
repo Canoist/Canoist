@@ -17,8 +17,10 @@ I am an engineer, raft-guide and a "programmer larva".😄
 
 ## 🛠 Technical Stack
 * JavaScript (React.js, Material UI, React-hook-form, React-router-dom)
+* TypeScript
 * HTML
 * CSS
+* NodeJS
 * WebSocket
 * Git/GitHub
 <!--
