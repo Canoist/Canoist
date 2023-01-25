@@ -1,8 +1,8 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Leo</h1>
+  <h1 align="center"><b>Hi there, i'm Leo</h1>
 </p>
 
-<p align="center">I am an engineer, raft-guide and Frontend Developer</p>
+<p align="center">I am an engineer, raft-guide and frontend developer</p>
     
 <br />
 
